@@ -4,6 +4,10 @@ function NavBar() {
   return (
     <nav>
       <a href="#home">I'm a link!</a>
-    </nav>
+     <a href="#home">About</a>
+   </nav>
+
   );
 }
+
+export default NavBar;
